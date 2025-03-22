@@ -13,5 +13,3 @@ Um sistema simples de controle financeiro em Python para pequenas empresas.
 - Armazenamento em arquivo CSV
 
 ## Como executar
-
-1. Clone este repositório:
